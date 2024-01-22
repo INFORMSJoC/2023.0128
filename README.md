@@ -27,7 +27,7 @@ Below is the BibTex for citing this snapshot of the respoitory.
 
 ```
 @article{cpbpc2023repo,
-  author =        {Jiachen Zhang, Magnouche Youcef, Pierre Bauguion, Sebastien Martin, J. Christopher Beck},
+  author =        {Zhang, Jiachen and Youcef, Magnouche and Bauguion, Pierre and Martin, Sebastien and Beck, J. Christopher},
   publisher =     {INFORMS Journal on Computing},
   title =         {{Computing Bi-Path Multi-Commodity Flows with Constraint Programming-based Branch-and-Price-and-Cut}},
   year =          {2023},
